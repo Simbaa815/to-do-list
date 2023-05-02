@@ -9,7 +9,7 @@ The styling and layout of the todolist is typically implemented using CSS, with 
 
 ![image](https://user-images.githubusercontent.com/112085387/234682415-c1136633-729a-4fe6-93c4-af29da30682f.png)
 
-simbaa815.github.io/to-do-list/ 
+Visit my to-do list app [here](https://simbaa815.github.io/to-do-list/).
 
 
 ## Authors
